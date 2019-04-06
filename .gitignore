@@ -1,0 +1,5 @@
+.env
+Notes
+node_modules/*
+*/node_modules/*
+my-workout-logger/node_modules/*
